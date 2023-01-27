@@ -25,7 +25,7 @@ SECRET_KEY = '8*+jtux04i%ld!l+si&i#_xhs@10j9ewri+7j4ic3n3-zhswu@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['greatnessxyz.herokuapp.com','127.0.0.1','greatdev.xyz']
+ALLOWED_HOSTS = ['greatnessxyz.herokuapp.com','127.0.0.1','greatdev.xyz','www.greatdev.xyz',]
 
 
 # Application definition
